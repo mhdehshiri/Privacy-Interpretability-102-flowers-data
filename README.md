@@ -9,7 +9,7 @@ with privacy. After that we initialize a privacy engine and pass data_loader, op
 model into it. We set the epsilon parameter in desired range and the accuracy of first part of 
 model is as follow:
 
-  ![privacy](images/ph2_privacy2.jpg "privacy")
+  ![privacy](images/prvcy1.jpg "privacy")
 
 
 For the interpretability, we create interpretations of the open set recognizer, that is the 
