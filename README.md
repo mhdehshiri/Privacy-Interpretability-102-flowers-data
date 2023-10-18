@@ -28,13 +28,13 @@ Here is a visualization of model output based on GradCAM that is in the closed s
   ![interpratable](images/intro_1.jpg "interpratable")
 
 The interpreter is able to work with the following CAM-based algorithms:
-GradCAM
-GradCAMPlusPlus
-AblationCAM
-XGradCAM
-EigenCAM 
-FullGrad
-The sample runnable script is test_interpretability.py that has also a notebook version 
+GradCAM, 
+GradCAMPlusPlus,
+AblationCAM,
+XGradCAM,
+EigenCAM,
+FullGrad.
+ The sample runnable script is test_interpretability.py that has also a notebook version 
 alongside
 
 
